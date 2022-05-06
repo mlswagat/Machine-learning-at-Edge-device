@@ -7,3 +7,4 @@ Edge devices have limited storage and computing resources. Thus, training large 
 
 # Blogs
 1. <a href="https://towardsdatascience.com/will-edge-ai-be-the-ml-architecture-of-the-future-42663d3cbb5" target="_black"> Edge AI: the ML architecture of the future</a>
+2. <a href="https://www.therobotreport.com/why-and-how-to-run-machine-learning-algorithms-on-edge-devices/" target="_black">Why and how to run machine learning algorithms on edge devices</a>
